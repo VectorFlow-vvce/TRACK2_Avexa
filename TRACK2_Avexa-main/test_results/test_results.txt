@@ -1,0 +1,16 @@
+TEST RESULTS
+============================================================
+
+Overall Test IoU: 0.0741 (7.41%)
+
+Class-wise IoU:
+  Background     : 0.0000 (0.00%)
+  Trees          : 0.0631 (6.31%)
+  Lush Bushes    : 0.0000 (0.00%)
+  Dry Grass      : 0.4067 (40.67%)
+  Dry Bushes     : 0.0447 (4.47%)
+  Ground Clutter : 0.0000 (0.00%)
+  Logs           : 0.0000 (0.00%)
+  Rocks          : 0.0000 (0.00%)
+  Landscape      : 0.1298 (12.98%)
+  Sky            : 0.0053 (0.53%)
