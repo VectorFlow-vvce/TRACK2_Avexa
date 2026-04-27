@@ -26,7 +26,7 @@ Update these values with your final run if needed.
 
 | Resource | Link |
 |---|---|
-| Training Notebook / Colab | `PASTE_COLAB_LINK_HERE` |
+| Training Notebook / Colab | ` https://colab.research.google.com/drive/1XlkDONs9ZWxCrRAvZvzfho4D0SZX3d4x?usp=sharing` |
 
 ## Project Structure
 
