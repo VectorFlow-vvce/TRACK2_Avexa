@@ -20,7 +20,7 @@ Build a segmentation model for off-road scenes and improve robustness on visuall
 | Best Validation mIoU | `47.99%` |
 | Final Evaluation Metric | `mAP50` |
 
-Update these values with your final run if needed.
+
 
 ## Colab
 
@@ -59,7 +59,7 @@ Update these values with your final run if needed.
 
 ## Bonus Challenge
 
-### Problem
+### Bonus Challenge
 The model can confuse **Dry Grass** with **Flat Landscape**.
 
 ### Our Fix
