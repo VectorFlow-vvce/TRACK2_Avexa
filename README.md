@@ -1,6 +1,6 @@
 # TRACK2_Avexa
 
-Off-road semantic segmentation for the Falcon by Duality AI hackathon.
+Duality AI's Offroad Semantic Scene Segmentation
 
 ## Overview
 
